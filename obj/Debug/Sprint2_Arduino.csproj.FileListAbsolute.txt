@@ -1,0 +1,10 @@
+C:\Users\rexpo\source\repos\Sprint2_Arduino\bin\Debug\Sprint2_Arduino.exe.config
+C:\Users\rexpo\source\repos\Sprint2_Arduino\bin\Debug\Sprint2_Arduino.exe
+C:\Users\rexpo\source\repos\Sprint2_Arduino\bin\Debug\Sprint2_Arduino.pdb
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.csproj.AssemblyReference.cache
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.frmBalises.resources
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.Properties.Resources.resources
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.csproj.GenerateResource.cache
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.csproj.CoreCompileInputs.cache
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.exe
+C:\Users\rexpo\source\repos\Sprint2_Arduino\obj\Debug\Sprint2_Arduino.pdb
